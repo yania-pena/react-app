@@ -11,9 +11,4 @@ function App() {
   );
 }
 
-const PORT = process.env.PORT || 4000
-App.listen(PORT, function() {
-  console.log("Servidor escuchando en el puerto",PORT)
-
- });
 export default App;
