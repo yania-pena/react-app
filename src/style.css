@@ -101,9 +101,9 @@ header > p {
     margin: 15px auto;
     display: flex;
     justify-content: center;
-    align-content: space-around;
     flex-direction: column;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    align-content: center;
     align-items: center;
 }
 
