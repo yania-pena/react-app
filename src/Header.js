@@ -8,7 +8,7 @@ function Header() {
                 alt="Troll Face"
                 width="120"
             />
-            <p>Meme Generator</p>
+            <p>Generador de Memes</p>
         </header>
     );
 }

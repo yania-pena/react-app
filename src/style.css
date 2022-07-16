@@ -4,7 +4,7 @@
 }
 body {
     margin: 0;
-    background-color: whitesmoke;
+    background-color: rgba(138, 195, 219, 0.492);
 }
 
 header {
@@ -12,9 +12,9 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #6441A5;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #2a0845, #6441A5);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #2a0845, #6441A5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #220bd6dc;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2a0845, #1f0ac16d);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2a0845, #1555c48e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 } 
 header > img {
     margin-left: 5%;
